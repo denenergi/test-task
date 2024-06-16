@@ -1,0 +1,16 @@
+body {
+  background-color: rgb(224, 224, 224);
+  margin: 0;
+  padding: 0;
+}
+
+.MuiButtonBase-root.Mui-selected {
+  background-color: rgb(0, 22, 216);
+}
+
+
+/* @media (max-width: 768px) {
+  .desc-nav {
+    display: none;
+  }
+} */
